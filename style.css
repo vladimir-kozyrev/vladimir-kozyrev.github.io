@@ -16,4 +16,36 @@ h2 {
 
 p {
     color: lightgrey;
+    font-family: "Menlo", "Meslo LG", monospace;
+}
+
+ul {
+    color: lightgrey;
+}
+
+li {
+    font-family: "Menlo", "Meslo LG", monospace;
+}
+
+img {
+    height: 100px;
+}
+
+a:link {
+    color: lightgrey;
+
+}
+
+a:visited {
+    color: lightgrey;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:active {
+    text-decoration: underline;
+    color: lightgrey;
 }
